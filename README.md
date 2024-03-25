@@ -1,11 +1,13 @@
-# Getting Started with Create React App
+# Starting application
+Open application and in terminal run command below to install all modules used.
+## `npm install`
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Pages
 
-## Available Scripts
+Main page of app is called App.tsx inside which we call another page called  MainPage
 
+## Run App
 In the project directory, you can run:
-
 ### `npm start`
 
 Runs the app in the development mode.\
@@ -13,6 +15,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
+
+## How app works?
+When run the app a spinner will be displayed that indicates the data are fetched.
+As soon as fetched you will se one by one rendering items and loading the thumbnail.
+You can drag each image and drop on top of other images to switch the place.
+By default if the user has not drag and droped any card the app remains same if swiched position after 5 seconds the images position will be reset.
 
 ### `npm test`
 

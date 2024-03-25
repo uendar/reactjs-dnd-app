@@ -1,0 +1,33 @@
+[
+    {
+        "type": "orange cat",
+        "title": "Official Cat",
+        "position": 0,
+        "thumbnail": "assets/img/cat-1.jpg"
+       
+    },
+    {
+        "type": "white cat",
+        "title": "Curious Cat",
+        "position": 1,
+        "thumbnail": "/assets/img/cat-2.jpg"
+    },
+    {
+        "type": "staring cat",
+        "title": "Staring Cat",
+        "position": 2,
+        "thumbnail": "/assets/img/cat-3.jpg"
+    },
+    {
+        "type": "scared cat",
+        "title": "Scared cat",
+        "position": 3,
+        "thumbnail": "/assets/img/cat-4.jpg"  
+    },
+    {
+        "type": "spying cat",
+        "title": "Spying Cat",
+        "position": 4,
+        "thumbnail": "/assets/img/cat-5.jpg"   
+    }
+]

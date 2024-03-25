@@ -1,0 +1,14 @@
+.loaderContainer {
+  background-color: transparent;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.loaderText  {
+  font-size: 20px;
+  margin-top: 20px;
+  color:#0463b7;
+}
